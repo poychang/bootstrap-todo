@@ -1,0 +1,34 @@
+body {
+    background-color: #EEEEEE;
+}
+
+.todolist {
+    background-color: #FFF;
+    padding: 20px 20px 10px 20px;
+    margin-top: 30px;
+}
+
+.todolist h1 {
+    margin: 0;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.todo-footer {
+    background-color: #F4FCE8;
+    margin: 0 -20px -10px -20px;
+    padding: 10px 20px;
+}
+
+.check-all {
+    margin-top: 10px;
+}
+
+.check-items li {
+    padding: 10px 10px;
+}
+
+.done-items li {
+    padding: 10px 10px;
+    text-decoration: line-through;
+}
